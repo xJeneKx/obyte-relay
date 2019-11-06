@@ -24,6 +24,6 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "ocore": "git+https://github.com/xjenek/ocore.git#rocks-and-formulas"
+    "ocore": "git+https://github.com/xJeneKx/ocore.git#rocks-and-formulas"
   }
 }
